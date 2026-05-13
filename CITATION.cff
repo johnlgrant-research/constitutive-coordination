@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "Constitutive Coordination: Where capacities are constituted rather than located"
+message: "If you use this work, please cite it as below."
+type: software
+authors:
+  - family-names: "Grant"
+    given-names: "John L"
+    orcid: "https://orcid.org/0009-0009-8838-2798"
+    affiliation: "IT Jobs Watch"
+version: "0.2"
+date-released: "2026-05-11"
+url: "https://github.com/johnlgrant-research/constitutive-coordination"
+repository: "https://github.com/johnlgrant-research/constitutive-coordination"
+license: CC-BY-4.0
+preferred-citation:
+  type: report
+  title: "Constitutive Coordination: Where capacities are constituted rather than located"
+  authors:
+    - family-names: "Grant"
+      given-names: "John L"
+      orcid: "https://orcid.org/0009-0009-8838-2798"
+      affiliation: "IT Jobs Watch"
+  year: 2026
+  month: 5
+  url: "https://github.com/johnlgrant-research/protocol-field"
+  abstract: "Constitutive Coordination develops the Constitutive position as a third diagnostic vertex alongside the Augustinian and Pelagian positions. It argues that AI-mediated coordination exposes limits in the assumption that capacities are located somewhere, either supplied from outside or released from within. Some capacities are constituted through the coupling itself, and require a vocabulary that can diagnose them without misattributing them to either side alone."
