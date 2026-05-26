@@ -16,7 +16,7 @@ The aim is to extend the vocabulary available to practitioners working in AI-med
 
 *Constitutive Coordination: Where capacities are constituted rather than located*, Version 0.1, May 2026.
 
-- [Read online](constitutive-coordination.md)
+- [Read online](https://www.itjobswatch.co.uk/research-notes/2026/constitutive-coordination)
 
 
 ## Status
